@@ -5,7 +5,9 @@ public class Main{
         System.out.println("HElloWorld");
         System.out.println("Main Java File");
         System.out.println("Added one more file Java File");
-       
+        Student s1= new Student();
+        s1.CreateStudent();
+           
     }
 
 }
